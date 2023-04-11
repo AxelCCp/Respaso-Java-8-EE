@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Fanta\Documents\Za4.-JAVA_STANDARD_EDITION\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2465174774.index
+\A6_jee_JSP\src\main\java
+C:\Users\Fanta\Documents\Za4.-JAVA_STANDARD_EDITION\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1316924264.index
+\A6_jee_JSP\src\main\java

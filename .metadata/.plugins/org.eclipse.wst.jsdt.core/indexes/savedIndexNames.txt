@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Fanta\Documents\Za4.-JAVA_8_EE_REPASO\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2713699928.index
+1818002612.index
+1061293823.index
+1247753152.index
+2345006941.index

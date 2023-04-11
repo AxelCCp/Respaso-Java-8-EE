@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;connection.database.DatabaseConnection&apos; to &apos;ReadDatabaseConnection&apos;&#x0D;&#x0A;- Original project: &apos;A0_jee_jdbc&apos;&#x0D;&#x0A;- Original element: &apos;connection.database.DatabaseConnection&apos;&#x0D;&#x0A;- Renamed element: &apos;connection.database.ReadDatabaseConnection&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DatabaseConnection&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;connection.database{DatabaseConnection.java[DatabaseConnection" matchStrategy="1" name="ReadDatabaseConnection" qualified="false" references="true" similarDeclarations="false" stamp="1676941659022" textual="false" version="1.0"/>
+</session>

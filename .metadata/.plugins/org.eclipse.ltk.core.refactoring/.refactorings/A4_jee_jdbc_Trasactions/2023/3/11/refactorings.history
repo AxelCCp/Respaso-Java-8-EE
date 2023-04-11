@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;jee.transactions.InsertClientsAndOrders&apos; to &apos;UpdateTableProducts&apos;&#x0D;&#x0A;- Original project: &apos;A4_jee_jdbc_Trasactions&apos;&#x0D;&#x0A;- Original element: &apos;jee.transactions.InsertClientsAndOrders&apos;&#x0D;&#x0A;- Renamed element: &apos;jee.transactions.UpdateTableProducts&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InsertClientsAndOrders&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;jee.transactions{InsertClientsAndOrders.java[InsertClientsAndOrders" matchStrategy="1" name="UpdateTableProducts" qualified="false" references="true" similarDeclarations="false" stamp="1678717801883" textual="false" version="1.0"/>
+</session>
